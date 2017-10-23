@@ -12,18 +12,18 @@ A recommender engine for movies based on popularity and item similarity models.
 ## Graphs and Evaluation results
 
 
-#### Summary Graph
+### Summary Graph
 
 ![alt](Graphs/Summary.png)
 
 
-#### Evaluation Graph
+### Evaluation Graph
 
 ![alt](Graphs/Evaluation.png)
 
 
 
-#### Comparision Graph
+### Comparision Graph
 
 The precision vs. recall graph of Popularity_Recommeder_Model and Simalar_Movie_Model
 
