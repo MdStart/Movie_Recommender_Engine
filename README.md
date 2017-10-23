@@ -12,7 +12,7 @@ A recommender engine for movies based on popularity and item similarity models.
 # Graphs and Evaluation results
 
 
-### Summary Graph
+### Summary
 
 <img src="Graphs/Summary.png" width="400" height="500"/>
 
