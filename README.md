@@ -3,28 +3,28 @@
 A recommender engine for movies based on popularity and item similarity models.
 
 
-## Requirements
+### Requirements
 1. Python 2.7
 2. Pandas
 3. Numpy
 4. Graphlab
 
-## Graphs and Evaluation results
+# Graphs and Evaluation results
 
 
 ### Summary Graph
 
-![alt](Graphs/Summary.png)
-
+<img src="Graphs/Summary.png" width="400" height="500"/>
 
 ### Evaluation Graph
 
-![alt](Graphs/Evaluation.png)
-
+<img src="Graphs/Evaluation.png" width="600" height="500"/>
 
 
 ### Comparision Graph
 
-The precision vs. recall graph of Popularity_Recommeder_Model and Simalar_Movie_Model
+The precision vs. recall graph of Popularity_Recommeder_Model and Similar_Movie_Model.
 
-![alt](Graphs/Comparision.png)
+<img src="Graphs/Comparision.png" width="650" height="500"/>
+
+
