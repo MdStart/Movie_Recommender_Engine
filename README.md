@@ -9,7 +9,7 @@ A recommender engine for movies based on popularity and item similarity models.
 3. Numpy
 4. Graphlab
 
-# Graphs and Evaluation results
+## Graphs and Evaluation results
 
 
 ### Summary
