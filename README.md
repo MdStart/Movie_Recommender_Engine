@@ -5,26 +5,12 @@ A recommender engine for movies based on popularity and item similarity models.
 
 ### Requirements
 1. Python 2.7
-2. Pandas
+2. Scikit Learn
 3. Numpy
-4. Graphlab
-
-## Graphs and Evaluation results
+4. Surprise
 
 
-### Summary
-
-<img src="Graphs/Summary.png" width="400" height="500"/>
-
-### Evaluation Graph
-
-<img src="Graphs/Evaluation.png" width="600" height="500"/>
-
-
-### Comparision Graph
-
-The precision vs. recall graph of Popularity_Recommeder_Model and Similar_Movie_Model.
-
-<img src="Graphs/Comparision.png" width="650" height="500"/>
-
+The following repository contains updated code for two redefined recommender engines. The python file is build using MovieLens and Graph lab with inbuilt recommendations engines. The notebook contains various types of recommender engines implemented from scratch. 
+## Please visit NBViewer link to access the notebook - 
+[Movie Recommeder 2.0 Notebook Link](https://nbviewer.jupyter.org/github/shaz13/Movie_Recommender_Engine/blob/master/Movie%20Recommender%202.0.ipynb) 
 
